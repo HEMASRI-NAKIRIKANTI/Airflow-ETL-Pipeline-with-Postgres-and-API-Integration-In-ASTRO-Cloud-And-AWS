@@ -47,10 +47,15 @@ Commands :
 
 winget install -e --id Astronomer.Astro      # To install astronomer astro
 astro login
+
 astro dev init                               # create a folder with the required files for the astro
+
 astro dev start                              # to start the astro projec
+
 astro dev stop                               # To stop the container running
+
 astro deploy                                 # To deploy the project
+
 
 cloude set up :
 Go to rds and create a instance and 
